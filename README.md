@@ -1,4 +1,4 @@
-**DATA SCIENCE INTERNSHIP **
+**DATA SCIENCE INTERNSHIP**
 
 Implemented machine learning algorithms for predictive modeling and classification tasks.
 Worked on feature engineering, model training, and evaluation, demonstrating a solid understanding of machine learning principles.
